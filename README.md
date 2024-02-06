@@ -1,6 +1,8 @@
-# sturdy-chainsaw
+# RandomHN
 
-This template should help get you started developing with Vue 3 in Vite.
+Teleport to the front page of [Hacker News](https://news.ycombinator.com/) on a random date!
+
+Made using VueJS, TS, TailwindCSS.
 
 ## Recommended IDE Setup
 
