@@ -1,8 +1,8 @@
 <template>
   <footer
-    class="bottom-0 w-full border-b border-white/[0.1] bg-zinc-900 py-2 flex justify-center items-center"
+    class="bottom-0 flex w-full items-center justify-center border-b border-white/[0.1] bg-zinc-900 py-2"
   >
-    <p class="text-lg text-zinc-300 text-center px-2">
+    <p class="px-2 text-center text-lg text-zinc-300">
       teleport to a random date's Hacker News front page.
     </p>
   </footer>

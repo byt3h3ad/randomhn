@@ -8,7 +8,7 @@ import IconCommunity from './icons/IconCommunity.vue'
       <div class="flex gap-6">
         <a href="/" class="flex items-center space-x-2">
           <IconCommunity />
-          <span class="inline-block font-bold text-xl text-zinc-300">Hacker News</span>
+          <span class="inline-block text-xl font-bold text-zinc-300">Hacker News</span>
         </a>
       </div>
     </div>
